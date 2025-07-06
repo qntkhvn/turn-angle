@@ -1,5 +1,8 @@
 library(tidyverse)
 
+# to prep the data,
+# run 01a_prep_rusher_data.R and 01b_prep_receiver_data.R
+
 tracking_angle_full <- read_rds("scripts/tracking_angle_receivers.rds") |> 
   bind_rows(read_rds("scripts/tracking_angle_rushers.rds"))
 
