@@ -12,6 +12,6 @@ We illustrate our approach with results from the first nine weeks of the 2022 NF
 
 ## Related links
 
-* [arXiv preprint](https://arxiv.org/abs/XXXXXX)
+* [arXiv preprint](https://arxiv.org/abs/2507.06122)
 
 * Download NFL Big Data Bowl 2025 data from Kaggle [here](https://www.kaggle.com/competitions/nfl-big-data-bowl-2025/data) and store the `.csv` files in a `data` subdirectory.
